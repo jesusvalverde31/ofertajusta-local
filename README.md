@@ -69,3 +69,9 @@ OfertaJusta is a privacy-first local job offer analyzer. It converts salary, unp
 - **34–44 s:** editar desplazamiento y enseñar cálculos y alertas recalculados.
 - **44–53 s:** mover una candidatura de enviada a entrevista y registrar evento.
 - **53–60 s:** vista móvil, historial y cierre: “contexto para decidir, no una recomendación”.
+
+## Copyright
+
+Copyright © 2026 Jesús Valverde. All rights reserved. This source code
+is public for portfolio review; no open-source license is granted.
+See `LICENSE`.
